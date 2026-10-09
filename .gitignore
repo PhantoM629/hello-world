@@ -1,0 +1,8 @@
+# CMake build output (also covers the windeployqt-copied Qt DLLs)
+build/
+out/
+cmake-build-*/
+
+# Visual Studio / VS Code local state
+.vs/
+.vscode/
